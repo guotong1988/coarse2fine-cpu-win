@@ -16,4 +16,4 @@
 
 `wikisql/train.py`
 
-preprocess is also supported
+`preprocess.py` is also supported if you have download the data from the official repo.
