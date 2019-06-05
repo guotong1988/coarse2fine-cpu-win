@@ -15,3 +15,5 @@
 ## Usage
 
 `wikisql/train.py`
+
+preprocess is also supported
